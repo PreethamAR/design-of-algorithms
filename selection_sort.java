@@ -8,7 +8,7 @@
 // Move to next position
 // Repeat until array is sorted
 
-public class SelectionSort{
+public class selection_sort{
 
     static void selectionSort(int[] arr) {
 
